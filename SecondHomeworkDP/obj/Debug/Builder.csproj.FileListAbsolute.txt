@@ -1,0 +1,7 @@
+C:\Users\Vlad\source\repos\SecondHomeworkDP\SecondHomeworkDP\bin\Debug\SecondHomeworkDP.exe.config
+C:\Users\Vlad\source\repos\SecondHomeworkDP\SecondHomeworkDP\bin\Debug\SecondHomeworkDP.exe
+C:\Users\Vlad\source\repos\SecondHomeworkDP\SecondHomeworkDP\bin\Debug\SecondHomeworkDP.pdb
+C:\Users\Vlad\source\repos\SecondHomeworkDP\SecondHomeworkDP\obj\Debug\Builder.csprojAssemblyReference.cache
+C:\Users\Vlad\source\repos\SecondHomeworkDP\SecondHomeworkDP\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\SecondHomeworkDP\SecondHomeworkDP\obj\Debug\SecondHomeworkDP.exe
+C:\Users\Vlad\source\repos\SecondHomeworkDP\SecondHomeworkDP\obj\Debug\SecondHomeworkDP.pdb

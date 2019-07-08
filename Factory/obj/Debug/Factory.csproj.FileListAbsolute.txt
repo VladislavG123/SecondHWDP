@@ -1,0 +1,6 @@
+C:\Users\Vlad\source\repos\SecondHomeworkDP\Factory\bin\Debug\Factory.exe.config
+C:\Users\Vlad\source\repos\SecondHomeworkDP\Factory\bin\Debug\Factory.exe
+C:\Users\Vlad\source\repos\SecondHomeworkDP\Factory\bin\Debug\Factory.pdb
+C:\Users\Vlad\source\repos\SecondHomeworkDP\Factory\obj\Debug\Factory.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\SecondHomeworkDP\Factory\obj\Debug\Factory.exe
+C:\Users\Vlad\source\repos\SecondHomeworkDP\Factory\obj\Debug\Factory.pdb
